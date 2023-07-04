@@ -1,1 +1,2 @@
-This is my second read me
+July is here and it is obviously cold
+
